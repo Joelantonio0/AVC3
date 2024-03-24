@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Condominio_interface","l":"pagarQuota()"},{"p":"<Unnamed>","c":"Condominio_interface","l":"pagarSalario(Funcionario)"}];updateSearchResults();
