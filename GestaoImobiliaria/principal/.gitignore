@@ -1,0 +1,16 @@
+/Cliente.class
+/Proprietario.class
+/Imovel.class
+/Apartamento.class
+/Vivenda.class
+/Terreno.class
+/Transacao.class
+/TransacaoVenda.class
+/TransacaoAluguel.class
+/Funcionario.class
+/ClienteService.class
+/ProprietarioService.class
+/ImovelService.class
+/TransacaoService.class
+/FuncionarioService.class
+/Main.class
