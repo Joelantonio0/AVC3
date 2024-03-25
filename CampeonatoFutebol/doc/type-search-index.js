@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"futebol","l":"CampeonatoEuropeu"},{"p":"futebol","l":"Equipa"},{"p":"futebol","l":"Jogador"},{"p":"futebol","l":"Jogo"},{"p":"futebol","l":"Main"},{"p":"futebol","l":"Resultado"},{"p":"futebol","l":"Selecao"}];updateSearchResults();
